@@ -1,2 +1,2 @@
-# Simplified-Relational-Database-Management-System
- A simplified Relational Database Management System (RDBMS) using C++ with an emphasis on using the Standard Template Library (STL) and object-oriented programming.
+# Simplified Relational Database Management System in C++
+ A simplified Relational Database Management System (RDBMS) using C++ that provides users with a command-line interface to interact with data stored in tables. The system supports basic SQL-like queries, including table creation, deletion, data insertion, updating, deletion, and data retrieval.
